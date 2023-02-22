@@ -2,7 +2,6 @@ Thank you for reading my note. I would like to encourage you to read this note c
 
 # UML
 
-This is a UML notes. Please 
 [[reference]](https://stackoverflow.com/questions/1874049/explanation-of-the-uml-arrows), [[reference2]](https://www.guru99.com/association-aggregation-composition-difference.html)
 
 ## 1. Class Notation
